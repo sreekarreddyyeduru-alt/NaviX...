@@ -1,2 +1,2 @@
-# NaviX...
+# NaviX
 app
